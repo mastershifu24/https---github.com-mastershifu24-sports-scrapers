@@ -1,0 +1,41 @@
+Batting,AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details,Team
+Brandon Nimmo LF,5.0,1.0,2.0,1.0,0.0,2.0,5.0,0.258,0.318,0.473,0.79,19.0,16.0,0.027,1.47,0.164,-0.138,0.02%,2.0,0.6,2.0,0.0,2B,all_NewYorkMetsbatting
+Francisco Lindor SS,5.0,2.0,1.0,2.0,0.0,1.0,5.0,0.26,0.331,0.457,0.788,20.0,14.0,-0.117,1.52,0.073,-0.19,-0.10%,2.08,0.5,3.0,2.0,HR,all_NewYorkMetsbatting
+Juan Soto RF,5.0,1.0,3.0,1.0,0.0,1.0,5.0,0.269,0.399,0.509,0.908,15.0,9.0,0.238,1.58,0.28,-0.042,0.19%,2.15,1.0,0.0,0.0,,all_NewYorkMetsbatting
+Pete Alonso 1B,4.0,1.0,2.0,2.0,1.0,1.0,5.0,0.29,0.383,0.551,0.934,15.0,10.0,0.305,1.7,0.393,-0.088,0.25%,2.31,1.6,12.0,1.0,"HR,GDP,IW",all_NewYorkMetsbatting
+Jesse Winker DH,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.232,0.313,0.406,0.718,6.0,5.0,-0.048,0.96,0.0,-0.048,-0.04%,1.31,-0.4,0.0,0.0,,all_NewYorkMetsbatting
+Mark Vientos PH-DH-DH,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.21,0.272,0.341,0.613,10.0,6.0,-0.099,1.91,0.0,-0.099,-0.08%,2.6,-0.7,0.0,0.0,,all_NewYorkMetsbatting
+Travis Jankowski PH-DH-DH,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.244,0.286,0.289,0.575,2.0,2.0,0.005,2.66,0.005,0.0,0.00%,3.62,-0.1,0.0,0.0,SH,all_NewYorkMetsbatting
+Jeff McNeil CF-2B,4.0,0.0,0.0,0.0,1.0,1.0,5.0,0.254,0.344,0.47,0.814,10.0,7.0,-0.083,1.6,0.005,-0.088,-0.07%,2.18,-0.5,1.0,2.0,IW,all_NewYorkMetsbatting
+Luis Torrens C,4.0,0.0,0.0,0.0,1.0,3.0,5.0,0.21,0.285,0.315,0.6,22.0,13.0,-0.146,1.42,0.026,-0.172,-0.12%,1.93,-1.0,8.0,2.0,,all_NewYorkMetsbatting
+Ronny Mauricio 3B,5.0,1.0,1.0,1.0,0.0,2.0,5.0,0.244,0.311,0.427,0.738,22.0,13.0,-0.025,1.9,0.169,-0.194,-0.02%,2.59,-0.4,3.0,5.0,HR,all_NewYorkMetsbatting
+Brett Baty 2B,3.0,1.0,2.0,0.0,1.0,1.0,4.0,0.233,0.285,0.419,0.704,12.0,6.0,0.148,1.06,0.167,-0.019,0.12%,1.44,0.8,1.0,2.0,2B,all_NewYorkMetsbatting
+Tyrone Taylor PR-CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.208,0.265,0.305,0.57,,,0.058,3.0,0.058,0.0,0.05%,4.09,0.2,0.0,0.0,SB,all_NewYorkMetsbatting
+,,,,,,,,,,,,,,,,,,,,,,,,all_NewYorkMetsbatting
+Clay Holmes P,,,,,,,,,,,,,,,,,,,,,0.0,2.0,,all_NewYorkMetsbatting
+Richard Lovelady P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_NewYorkMetsbatting
+Alex Carrillo P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_NewYorkMetsbatting
+Reed Garrett P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_NewYorkMetsbatting
+Edwin Díaz P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_NewYorkMetsbatting
+Huascar Brazobán P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_NewYorkMetsbatting
+Team Totals,39.0,7.0,11.0,7.0,4.0,13.0,44.0,0.282,0.349,0.564,0.913,153.0,101.0,0.263,1.59,1.34,-1.078,0.21%,2.17,1.7,30.0,16.0,,all_NewYorkMetsbatting
+Jackson Holliday 2B,4.0,2.0,2.0,2.0,0.0,0.0,5.0,0.263,0.313,0.425,0.738,11.0,8.0,0.153,1.06,0.208,-0.055,0.03%,0.28,2.0,1.0,0.0,"HR,HBP",all_BaltimoreOriolesbatting
+Jordan Westburg 3B,5.0,1.0,2.0,0.0,0.0,3.0,5.0,0.248,0.304,0.477,0.781,21.0,14.0,-0.085,1.6,0.121,-0.205,-0.01%,0.43,-0.2,1.0,1.0,CS,all_BaltimoreOriolesbatting
+Gunnar Henderson SS,5.0,1.0,1.0,0.0,0.0,1.0,5.0,0.27,0.338,0.435,0.773,18.0,12.0,-0.059,2.04,0.124,-0.184,-0.01%,0.55,-0.1,2.0,2.0,,all_BaltimoreOriolesbatting
+Ryan O'Hearn 1B,4.0,1.0,1.0,2.0,1.0,1.0,5.0,0.286,0.378,0.462,0.84,19.0,12.0,0.09,2.36,0.265,-0.176,0.01%,0.63,1.3,5.0,2.0,2B,all_BaltimoreOriolesbatting
+Ramón Laureano RF,4.0,0.0,1.0,2.0,0.0,0.0,4.0,0.273,0.344,0.5,0.844,19.0,13.0,-0.045,1.1,0.06,-0.105,-0.01%,0.3,-0.2,4.0,0.0,,all_BaltimoreOriolesbatting
+Colton Cowser LF,4.0,0.0,2.0,0.0,0.0,0.0,4.0,0.227,0.287,0.487,0.774,17.0,12.0,0.081,1.01,0.095,-0.015,0.01%,0.28,0.5,2.0,0.0,,all_BaltimoreOriolesbatting
+Tyler O'Neill DH,3.0,0.0,0.0,0.0,0.0,2.0,4.0,0.187,0.283,0.341,0.624,15.0,10.0,-0.218,1.59,0.004,-0.223,-0.03%,0.43,-1.2,0.0,0.0,"HBP,GDP",all_BaltimoreOriolesbatting
+Cedric Mullins CF,3.0,1.0,0.0,0.0,1.0,1.0,4.0,0.211,0.3,0.41,0.71,19.0,9.0,-0.054,1.08,0.039,-0.092,-0.01%,0.29,-0.6,0.0,0.0,SB,all_BaltimoreOriolesbatting
+Jacob Stallings C,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.146,0.219,0.188,0.407,12.0,6.0,-0.057,0.9,0.0,-0.057,-0.01%,0.24,-0.7,12.0,0.0,,all_BaltimoreOriolesbatting
+Ramón Urías PH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.255,0.307,0.38,0.687,3.0,1.0,-0.043,1.75,0.0,-0.043,-0.01%,0.47,-0.2,0.0,0.0,,all_BaltimoreOriolesbatting
+Alex Jackson C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,1.0,0.0,,all_BaltimoreOriolesbatting
+,,,,,,,,,,,,,,,,,,,,,,,,all_BaltimoreOriolesbatting
+Brandon Young P,,,,,,,,,,,,,,,,,,,,,2.0,0.0,,all_BaltimoreOriolesbatting
+Gregory Soto P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_BaltimoreOriolesbatting
+Seranthony Domínguez P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_BaltimoreOriolesbatting
+Bryan Baker P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_BaltimoreOriolesbatting
+Andrew Kittredge P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_BaltimoreOriolesbatting
+Félix Bautista P,,,,,,,,,,,,,,,,,,,,,0.0,0.0,,all_BaltimoreOriolesbatting
+Yennier Cano P,,,,,,,,,,,,,,,,,,,,,0.0,1.0,,all_BaltimoreOriolesbatting
+Team Totals,36.0,6.0,9.0,6.0,2.0,8.0,40.0,0.25,0.325,0.361,0.686,154.0,97.0,-0.237,1.47,0.916,-1.155,-0.04%,0.39,0.7,30.0,6.0,,all_BaltimoreOriolesbatting
