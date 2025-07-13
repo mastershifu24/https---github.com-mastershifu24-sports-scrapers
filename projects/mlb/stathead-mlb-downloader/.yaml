@@ -1,0 +1,17 @@
+
+---
+
+## ✅ **Step 2: Think in This Framework**
+
+**Q: How can I solve this with the skills I have now?**
+- I can use Python, install packages, and write clean functions.
+- I can follow documentation (e.g., Playwright’s docs).
+- I can break down a UI interaction into steps.
+
+**Q: What do I need to Google or learn to bridge the rest?**
+- How to use Playwright to navigate websites  
+- How to handle login with Playwright (cookies or form fill)  
+- How to trigger a download in Playwright  
+- How to run a script on a schedule (optional)
+
+---
