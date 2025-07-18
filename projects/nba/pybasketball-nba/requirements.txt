@@ -1,4 +1,6 @@
 cloudscraper
 beautifulsoup4
 pandas
-lxml 
+lxml
+requests
+html5lib 
